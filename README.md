@@ -1,6 +1,6 @@
 # Portfolio
 #### It contains my personal information, 10th,Descember,2018
-#### By **UMUTONI Jacqueline**
+#### Created By :**UMUTONI Jacqueline**
 ## Description
 This Portfolio includes my personal Information. it's purpose is that, when someone wants to know my profile, they can go to my porfolio and then have the information they want.
 ## Setup/Installation Requirements
