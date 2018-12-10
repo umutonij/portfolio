@@ -4,3 +4,14 @@ span{
   img{
       width: 500px;
   }
+  body{
+    font-family: Lucida Sans;
+    font-size: 20px;
+  }
+  h2{
+    text-shadow: 2px 2px 5px green;
+  font-size: 30px;
+   position: relative;
+  right: -20px;
+  text-decoration: underline;  
+  }
