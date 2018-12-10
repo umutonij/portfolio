@@ -2,7 +2,8 @@ span{
     background-color: rgb(161, 216, 238);
   }
   img{
-      width: 500px;
+      width: 400px;
+      border-radius:20px;
   }
   body{
     font-family: Lucida Sans;
@@ -10,8 +11,20 @@ span{
   }
   h2{
     text-shadow: 2px 2px 5px green;
-  font-size: 30px;
+   font-size: 30px;
    position: relative;
-  right: -20px;
-  text-decoration: underline;  
+   right: -80px;
+   text-decoration: underline;  
+   
   }
+  #projects{
+    margin: 30px;
+    text-align: justify;
+    right: -50px;
+    position: relative;
+  }
+  li{
+    padding:20px;
+  }
+    
+  
