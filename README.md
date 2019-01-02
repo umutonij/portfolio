@@ -11,7 +11,7 @@ This Portfolio includes my personal Information. it's purpose is that, when some
 * Markdown
 * To find the link of this portfolio click here https://umutonij.github.io/portfolio/
 ## Support and contact details
-  I Encourage you to contact me through:
+  I Encourage you to contact me for any addition, ideas through:
   * Email: jacquelineumutoni13@gmail.com
   * Phone: 0787683456
   * District: Nyarugenge
